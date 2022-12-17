@@ -1,2 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
-/* Your CSS Code here. */
+input{
+    width: 200px;
+    height: 50px;
+}
